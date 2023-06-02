@@ -36,4 +36,4 @@ layouts:
                 5733012.62, 5734195.683, 5733394.794, 5734577.858, 5733776.968,
                 5734159.143, 5734987.056, 5736170.119, 5735369.23
             ]
-turbines: !include ../IEA37_10MW_turbine.yaml
+turbines: !include ./IEA37_10MW_turbine.yaml

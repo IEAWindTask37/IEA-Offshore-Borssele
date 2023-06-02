@@ -42,9 +42,6 @@ wind_resource:
     - 0.048
     dims:
     - wind_speed
-  shear:
-    data: 0.08
-    dims: []
   weibull_a:
     data:
     - 9
