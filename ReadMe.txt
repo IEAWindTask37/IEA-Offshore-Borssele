@@ -1,1 +1,1 @@
-This repo is under development. Be patient - the Borssele reference wind farm will be published here soon!
+This is the development repo for the Borssele Offshore Reference Wind Plant.
